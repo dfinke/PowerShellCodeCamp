@@ -1,6 +1,6 @@
 PowerShell Code Camp Demos
 ==
-You can also check out the PowerShell source ([HERE](https://github.com/dfinke/powershell-for-developers)) I wrote for my book ["PowerShell for Developers"](http://www.amazon.com/Windows-PowerShell-Developers-Douglas-Finke/dp/1449322700).
+You can also check out the PowerShell source (<a href="https://github.com/dfinke/powershell-for-developers" target="_blank">HERE</a>) I wrote for my book <a href="https://http://www.amazon.com/Windows-PowerShell-Developers-Douglas-Finke/dp/1449322700" target="_blank">"PowerShell for Developers"</a>.
 
 How to run
 -
@@ -21,7 +21,7 @@ Blog
 -
 Catch up with me 
  
-***blog*** [Development in a Blink](http://dougfinke.com/blog/)
+***blog*** <a href="http://dougfinke.com/blog/" target="_blank">Development in a Blink</a>
 
 ***twitter*** 
 <a class="twitter-timeline" href="https://twitter.com/dfinke" data-widget-id="408392128838893568">Tweets by @dfinke</a>
