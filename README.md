@@ -19,7 +19,7 @@ Please use the `Issues` forum if you run into trouble.
 
 Blog
 -
-Catch up with me 
+Catch up with me here: 
  
 ***blog*** <a href="http://dougfinke.com/blog/" target="_blank">Development in a Blink</a>
 
