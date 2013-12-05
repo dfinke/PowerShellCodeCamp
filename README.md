@@ -21,7 +21,7 @@ Blog
 -
 Catch up with me 
  
-***blog*** [Development in a Blink]()
+***blog*** [Development in a Blink](http://dougfinke.com/blog/)
 
 ***twitter*** 
 <a class="twitter-timeline" href="https://twitter.com/dfinke" data-widget-id="408392128838893568">Tweets by @dfinke</a>
